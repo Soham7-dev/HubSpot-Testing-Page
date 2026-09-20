@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Chatflow Test Page</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 700px;
+            margin: 50px auto;
+            padding: 20px;
+            text-align: center;
+        }
+        h1 { color: #333; }
+        p { color: #666; line-height: 1.6; }
+    </style>
+</head>
+<body>
+    <h1>Welcome to My Test Page 👋</h1>
+    <p>This is a simple page for testing my HubSpot chatflow integration.</p>
+    <p>If everything is set up correctly, you should see the chat widget in the bottom-right corner.</p>
+
+    <!-- Start of HubSpot Embed Code -->
+  <script type="text/javascript" id="hs-script-loader" async defer src="//js-na2.hs-scripts.com/247415965.js"></script>
+<!-- End of HubSpot Embed Code -->
+
+</body>
+</html>
